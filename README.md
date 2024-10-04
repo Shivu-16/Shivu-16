@@ -55,8 +55,9 @@
 ## 📊 GitHub Stats
 <img src="https://streak-stats.demolab.com?user=Shivu-16&theme=aura&hide_border=true&card_width=550"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Shivu-16&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/>
+
 ## 🏆 LeetCode Stats
-<img src="https://leetcard.jacoblin.cool/shivamSharmaOfficial?theme=light&font=source_sans_pro" alt="LeetCode Stats Card"/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivamSharmaOfficial?theme=dark&font=Graduate&ext=contest&ext=heatmap)
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
